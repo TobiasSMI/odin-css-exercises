@@ -1,0 +1,21 @@
+.odd {
+    background-color: #e68e8ec7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.even {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36px;
+    color: blue;
+}
+
+#cooler_id{
+    font-size: 36px;
+}
+
+.even#another_id{
+    font-size: xx-large;
+    background-color: #65f652ad;
+    font-weight: bold;
+    color: black;
+}
