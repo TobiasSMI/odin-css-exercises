@@ -13,7 +13,7 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
-  align-items: center;
+  justify-content: space-between;
   padding: 8px;
 }
 
@@ -52,18 +52,15 @@ a {
 
 ul {
   list-style-type: none;
-<<<<<<< HEAD
   display:flex;
   gap: 8px;
-  margin-left: 0px;
 }
 
 
 .left_side, .right_side{
   display:flex;
   flex:auto;
-  flex:auto;
-  
+  flex:auto;  
 }
 
 .left_side{
@@ -74,8 +71,3 @@ ul {
   justify-content: flex-end;
   gap: 16px;
 }
-=======
-  display: flex;
-  gap: 8px;
-}
->>>>>>> main
