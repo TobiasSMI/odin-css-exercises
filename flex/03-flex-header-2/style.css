@@ -40,6 +40,10 @@ button {
   padding: 8px 24px;
 }
 
+.notifications{
+  margin-left: auto;
+}
+
 a {
   /* this removes the line under our links */
   text-decoration: none;
@@ -48,6 +52,7 @@ a {
 
 ul {
   list-style-type: none;
+<<<<<<< HEAD
   display:flex;
   gap: 8px;
   margin-left: 0px;
@@ -69,3 +74,8 @@ ul {
   justify-content: flex-end;
   gap: 16px;
 }
+=======
+  display: flex;
+  gap: 8px;
+}
+>>>>>>> main
